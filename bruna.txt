@@ -1,1 +1,2 @@
 primeiro arquivo no treino de git
+linha de conflitos<conflito aqui>
